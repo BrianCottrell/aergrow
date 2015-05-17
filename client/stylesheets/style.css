@@ -146,7 +146,7 @@ button:active{
 }
 .contact{
   display: inline-block;
-  width: 49%;
+  width: 100%;
   margin-top: 2%;
   text-align: center;
   color: #555;
